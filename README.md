@@ -19,7 +19,7 @@
     <a href="https://medium.com/@hdgch1106" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.instagram.com/hugod.11/" target="_blank">
+    <a href="https://www.instagram.com/_hugogrados/" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
     </a>
 </div>
